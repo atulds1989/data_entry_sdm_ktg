@@ -1,0 +1,5 @@
+openpyxl
+tk
+ipykernel
+sqlite3
+messagebox
